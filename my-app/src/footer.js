@@ -1,12 +1,10 @@
-import './footer.css';
-
-function Footer() {
+import './footer.css'
+function footer (){
   return (
-    <div className="image-container">
-        <img src={logopagina} className="logo"/>
-    </div>
-
+    <footer className="footer">
+      <p>Todos los derechos reservados &copy; 2023</p>
+    </footer>
   );
 }
 
-export default Footer;
+export default footer;
