@@ -1,3 +1,5 @@
+import './Productos.css';
+
 export function AlternaFondo () {
     function miFondo() {
         let bodyStyle = document.body.style;
@@ -9,8 +11,7 @@ export function AlternaFondo () {
       }
     
       return (
-        <button onClick={miFondo} >
-          Alterna las luces
-        </button>
+        <button onClick={miFondo} style={{ backgroundImage: `url('/imagenes/sol.png')` }}
+         className="btnAlternaFondo"/>
       );
 }

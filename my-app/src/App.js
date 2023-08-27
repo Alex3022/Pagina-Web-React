@@ -13,9 +13,11 @@ function App() {
   return (
     <div className="App " >
 
+<AlternaFondo />
+
       <Titulo />
       <ModalLogin />
-      <AlternaFondo />
+      
 
       <div className="banner container">
         <div className="header-content">

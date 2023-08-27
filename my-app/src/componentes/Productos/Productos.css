@@ -51,3 +51,17 @@ p {
     cursor: pointer;
     float: left;
 }
+
+.btnAlternaFondo {
+    transition: background-color .3s;
+    color: var(--home-linkbox-text-color);
+    padding: .5rem 1rem;
+    border: var(--home-linkbox-border);
+    background-color: var(--home-linkbox-bg);
+    border-radius: 10px;
+    cursor: pointer;
+    float: right;
+    width: 50px !important;
+    height: 50px !important;
+    margin-right: 2% !important;
+}
