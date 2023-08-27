@@ -5,6 +5,7 @@ import './App.css';
 import Titulo from './componentes/Titulo/titulo';
 import { List, ListaBanner } from './componentes/Productos/DetalleProducto';
 import { AlternaFondo } from './componentes/Productos/AlternaFondo';
+import { Footer } from './componentes/Productos/Footer';
 
 
 function App() {
@@ -36,6 +37,8 @@ function App() {
       <div className='divIniciProducto'>
         <List />
       </div>
+
+      <Footer />
     </div>
   );
 }

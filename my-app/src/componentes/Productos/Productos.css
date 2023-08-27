@@ -61,3 +61,8 @@ p {
     border: 3px solid #000;
     border-radius: 5px;
 }
+
+.footer {
+    color: #ff504b !important;
+    font-weight: bold;
+}
