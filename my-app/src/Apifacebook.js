@@ -11,7 +11,7 @@ function Apiface() {
     appId="1263866944182333"
     autoLoad={false}
     fields="name,email,picture"
-    callback={responseFacebook} />,
+    callback={responseFacebook} />
       </div>
   
     );
