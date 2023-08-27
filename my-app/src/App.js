@@ -4,6 +4,7 @@ import ModalLogin from './componentes/Modal/ModalLogin';
 import './App.css';
 import Titulo from './componentes/Titulo/titulo';
 import { List, ListaBanner } from './componentes/Productos/DetalleProducto';
+import { AlternaFondo } from './componentes/Productos/AlternaFondo';
 
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
 
       <Titulo />
       <ModalLogin />
+      <AlternaFondo />
 
       <div className="banner container">
         <div className="header-content">
@@ -32,8 +34,6 @@ function App() {
       <div className='divIniciProducto'>
         <List />
       </div>
-
-
     </div>
   );
 }
