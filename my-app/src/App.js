@@ -1,8 +1,9 @@
 
-import React, { useState } from 'react';
+//import React, { useState } from 'react';
 import ModalLogin from './componentes/Modal/ModalLogin';
 import './App.css';
 import Titulo from './componentes/Titulo/titulo';
+import { List } from './componentes/Productos/DetalleProducto';
 
 
 function App() {
@@ -13,6 +14,8 @@ function App() {
      
      <Titulo/>
      <ModalLogin/>
+
+     <List />
     
     
     </div>
