@@ -1,10 +1,10 @@
 import './Logo.css';
-import logopagina from './Imagenes/logopagina.jpg';
+import logopagina1 from './Imagenes/logopagina1.jpg';
 
 function Logo() {
   return (
     <div className="image-container">
-        <img src={logopagina} className="logo"/>
+        <img src={logopagina1} className="logo"/>
     </div>
 
   );
