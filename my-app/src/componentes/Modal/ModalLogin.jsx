@@ -11,7 +11,8 @@ const ModalLogin = () => {
                 <form>
                     <input type="text" placeholder="Usuario" />
                     <input type="password" placeholder="Contraseña" />
-                    <button class="opacity">Ingresar</button>
+                    <button >Ingresar</button>
+                    {/*class="opacity"*/}
                 </form>
             </Modal>
         </div>

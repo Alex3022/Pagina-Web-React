@@ -1,3 +1,4 @@
+//Lista de productos que van en el banner
 export const lstBanner = [
     {
         id: 0,

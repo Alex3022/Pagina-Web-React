@@ -1,3 +1,4 @@
+//Lista de productos que se muestran en el detalle
 export const listProductos = [
     {
         id: 0,

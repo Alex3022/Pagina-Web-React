@@ -1,15 +1,8 @@
-
-
- 
-
-
-
-
-
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
@@ -32,9 +25,7 @@
 .container {
   text-align: center;
   padding: 20px;
-  border: 1px solid #ccc;
   border-radius: 5px;
-  background-color: #fff;
 }
 
 .header-content {
@@ -52,7 +43,7 @@
   flex-wrap: wrap;
   justify-content: center !important;
   margin: 0 auto;
-  background-color: #00607ee3;
+  background-color: #e87d1fe3;
 }
 
 .slider {
