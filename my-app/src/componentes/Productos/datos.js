@@ -5,7 +5,8 @@ export const listProductos = [
         descripcion: 'Deporte Bádminton',
         valor: 40000,
         ruta: '/imagenes/deporte/bagminton_1.png',
-        tipo: 'Deporte'
+        tipo: 'Deporte',
+        idDiv: 'divDeporte'
     },
     {
         id: 1,
@@ -13,7 +14,8 @@ export const listProductos = [
         descripcion: 'Deporte Pin Pon',
         valor: 165750,
         ruta: '/imagenes/deporte/pin_pon_1.png',
-        tipo: 'Deporte'
+        tipo: 'Deporte',
+        idDiv: 'divDeporte'
     }
     ,
     {
@@ -22,7 +24,8 @@ export const listProductos = [
         descripcion: 'Deporte Pin Pon',
         valor: 165750,
         ruta: '/imagenes/deporte/pin_pon_2.png',
-        tipo: 'Deporte'
+        tipo: 'Deporte',
+        idDiv: 'divDeporte'
     }
     ,
     {
@@ -31,7 +34,8 @@ export const listProductos = [
         descripcion: 'Deporte Pin Pon',
         valor: 90000,
         ruta: '/imagenes/deporte/pin_pon_3.png',
-        tipo: 'Deporte'
+        tipo: 'Deporte',
+        idDiv: 'divDeporte'
     }
     ,
     {
@@ -40,7 +44,8 @@ export const listProductos = [
         descripcion: 'Vendido por Vittoria One Shop Sas',
         valor: 85000,
         ruta: '/imagenes/deporte/tenis_1.png',
-        tipo: 'Deporte'
+        tipo: 'Deporte',
+        idDiv: 'divDeporte'
     }
     ,
     {
@@ -49,7 +54,8 @@ export const listProductos = [
         descripcion: 'Jordan Playground 2.0 8P',
         valor: 130000,
         ruta: '/imagenes/deporte/balon_1.png',
-        tipo: 'Deporte'
+        tipo: 'Deporte',
+        idDiv: 'divDeporte'
     }
     ,
     {
@@ -58,7 +64,8 @@ export const listProductos = [
         descripcion: 'Nike',
         valor: 90000,
         ruta: '/imagenes/deporte/balon_2.png',
-        tipo: 'Deporte'
+        tipo: 'Deporte',
+        idDiv: 'divDeporte'
     }
     ,
     {
@@ -67,7 +74,8 @@ export const listProductos = [
         descripcion: 'Decathlon',
         valor: 20000,
         ruta: '/imagenes/deporte/balon_3.png',
-        tipo: 'Deporte'
+        tipo: 'Deporte',
+        idDiv: 'divDeporte'
     }
     ,
     {
@@ -76,7 +84,8 @@ export const listProductos = [
         descripcion: 'Decathlon',
         valor: 30000,
         ruta: '/imagenes/deporte/bate_1.png',
-        tipo: 'Deporte'
+        tipo: 'Deporte',
+        idDiv: 'divDeporte'
     }
     ,
     {
@@ -85,7 +94,8 @@ export const listProductos = [
         descripcion: 'Decathlon',
         valor: 72000,
         ruta: '/imagenes/deporte/boxeo_1.png',
-        tipo: 'Deporte'
+        tipo: 'Deporte',
+        idDiv: 'divDeporte'
     }
     ,
     {
@@ -94,7 +104,8 @@ export const listProductos = [
         descripcion: 'Decathlon',
         valor: 72000,
         ruta: '/imagenes/deporte/boxeo_3.png',
-        tipo: 'Deporte'
+        tipo: 'Deporte',
+        idDiv: 'divDeporte'
     }
     ,
     {
@@ -103,7 +114,8 @@ export const listProductos = [
         descripcion: 'Decathlon',
         valor: 1200000,
         ruta: '/imagenes/deporte/esgrima_1.png',
-        tipo: 'Deporte'
+        tipo: 'Deporte',
+        idDiv: 'divDeporte'
     }
     ,
     {
@@ -112,7 +124,8 @@ export const listProductos = [
         descripcion: 'Decathlon',
         valor: 215000,
         ruta: '/imagenes/deporte/judo_1.png',
-        tipo: 'Deporte'
+        tipo: 'Deporte',
+        idDiv: 'divDeporte'
     }
     ,
     {
@@ -121,7 +134,8 @@ export const listProductos = [
         descripcion: 'Pilatos',
         valor: 95000,
         ruta: '/imagenes/hombre/busos/buso_1.png',
-        tipo: 'Hombre'
+        tipo: 'Hombre',
+        idDiv: 'divHombre'
     }
     ,
     {
@@ -130,7 +144,8 @@ export const listProductos = [
         descripcion: 'Diesel',
         valor: 105000,
         ruta: '/imagenes/hombre/busos/buso_2.png',
-        tipo: 'Hombre'
+        tipo: 'Hombre',
+        idDiv: 'divHombre'
     }
     ,
     {
@@ -139,7 +154,8 @@ export const listProductos = [
         descripcion: 'Marithe Francois Girbaud',
         valor: 75000,
         ruta: '/imagenes/hombre/busos/buso_3.png',
-        tipo: 'Hombre'
+        tipo: 'Hombre',
+        idDiv: 'divHombre'
     }
     ,
     {
@@ -148,7 +164,8 @@ export const listProductos = [
         descripcion: 'Superdry',
         valor: 87500,
         ruta: '/imagenes/hombre/busos/buso_4.png',
-        tipo: 'Hombre'
+        tipo: 'Hombre',
+        idDiv: 'divHombre'
     }
     ,
     {
@@ -157,7 +174,8 @@ export const listProductos = [
         descripcion: 'Monastery',
         valor: 60500,
         ruta: '/imagenes/hombre/busos/buso_5.png',
-        tipo: 'Hombre'
+        tipo: 'Hombre',
+        idDiv: 'divHombre'
     }
     ,
     {
@@ -166,7 +184,8 @@ export const listProductos = [
         descripcion: 'Pilatos',
         valor: 155000,
         ruta: '/imagenes/hombre/chaquetas/chaqueta_1.png',
-        tipo: 'Hombre'
+        tipo: 'Hombre',
+        idDiv: 'divHombre'
     }
     ,
     {
@@ -175,7 +194,8 @@ export const listProductos = [
         descripcion: 'Diesel',
         valor: 235000,
         ruta: '/imagenes/hombre/chaquetas/chaqueta_2.png',
-        tipo: 'Hombre'
+        tipo: 'Hombre',
+        idDiv: 'divHombre'
     }
     ,
     {
@@ -184,7 +204,8 @@ export const listProductos = [
         descripcion: 'Marithe Francois Girbaud',
         valor: 70000,
         ruta: '/imagenes/hombre/chaquetas/chaqueta_3.png',
-        tipo: 'Hombre'
+        tipo: 'Hombre',
+        idDiv: 'divHombre'
     }
     ,
     {
@@ -193,7 +214,8 @@ export const listProductos = [
         descripcion: 'Superdry',
         valor: 87500,
         ruta: '/imagenes/hombre/chaquetas/chaqueta_4.png',
-        tipo: 'Hombre'
+        tipo: 'Hombre',
+        idDiv: 'divHombre'
     }
     ,
     {
@@ -202,7 +224,8 @@ export const listProductos = [
         descripcion: 'Monastery',
         valor: 60500,
         ruta: '/imagenes/hombre/chaquetas/chaqueta_5.png',
-        tipo: 'Hombre'
+        tipo: 'Hombre',
+        idDiv: 'divHombre'
     }
     ,
     {
@@ -211,7 +234,8 @@ export const listProductos = [
         descripcion: 'Pilatos',
         valor: 155000,
         ruta: '/imagenes/hombre/chaquetas/chaqueta_6.png',
-        tipo: 'Hombre'
+        tipo: 'Hombre',
+        idDiv: 'divHombre'
     }
     ,
     {
@@ -220,7 +244,8 @@ export const listProductos = [
         descripcion: 'Monastery',
         valor: 30500,
         ruta: '/imagenes/hombre/gorras/gorra_1.png',
-        tipo: 'Hombre'
+        tipo: 'Hombre',
+        idDiv: 'divHombre'
     }
     ,
     {
@@ -229,7 +254,8 @@ export const listProductos = [
         descripcion: 'Superdry',
         valor: 40500,
         ruta: '/imagenes/hombre/gorras/gorra_2.png',
-        tipo: 'Hombre'
+        tipo: 'Hombre',
+        idDiv: 'divHombre'
     }
     ,
     {
@@ -238,7 +264,8 @@ export const listProductos = [
         descripcion: 'Marithe Francois Girbaud',
         valor: 40500,
         ruta: '/imagenes/hombre/gorras/gorra_3.png',
-        tipo: 'Hombre'
+        tipo: 'Hombre',
+        idDiv: 'divHombre'
     }
     ,
     {
@@ -247,7 +274,8 @@ export const listProductos = [
         descripcion: 'Superdry',
         valor: 40500,
         ruta: '/imagenes/hombre/gorras/gorra_4.png',
-        tipo: 'Hombre'
+        tipo: 'Hombre',
+        idDiv: 'divHombre'
     }
     ,
     {
@@ -256,7 +284,8 @@ export const listProductos = [
         descripcion: 'Marithe Francois Girbaud',
         valor: 53500,
         ruta: '/imagenes/hombre/gorras/gorra_5.png',
-        tipo: 'Hombre'
+        tipo: 'Hombre',
+        idDiv: 'divHombre'
     }
     ,
     {
@@ -265,7 +294,8 @@ export const listProductos = [
         descripcion: 'Superdry',
         valor: 50000,
         ruta: '/imagenes/hombre/gorras/gorra_6.png',
-        tipo: 'Hombre'
+        tipo: 'Hombre',
+        idDiv: 'divHombre'
     }
     ,
     {
@@ -274,7 +304,8 @@ export const listProductos = [
         descripcion: 'Marithe Francois Girbaud',
         valor: 34000,
         ruta: '/imagenes/hombre/gorras/gorra_7.png',
-        tipo: 'Hombre'
+        tipo: 'Hombre',
+        idDiv: 'divHombre'
     }
     ,
     {
@@ -283,7 +314,8 @@ export const listProductos = [
         descripcion: 'Superdry',
         valor: 38000,
         ruta: '/imagenes/hombre/gorras/gorra_8.png',
-        tipo: 'Hombre'
+        tipo: 'Hombre',
+        idDiv: 'divHombre'
     }
     ,
     {
@@ -292,7 +324,8 @@ export const listProductos = [
         descripcion: 'KUAILEY',
         valor: 50500,
         ruta: '/imagenes/hombre/pantaloneta/pantalon_1.png',
-        tipo: 'Hombre'
+        tipo: 'Hombre',
+        idDiv: 'divHombre'
     }
     ,
     {
@@ -301,7 +334,8 @@ export const listProductos = [
         descripcion: 'Amazon Essentials',
         valor: 40500,
         ruta: '/imagenes/hombre/pantaloneta/pantalon_2.png',
-        tipo: 'Hombre'
+        tipo: 'Hombre',
+        idDiv: 'divHombre'
     }
     ,
     {
@@ -310,7 +344,8 @@ export const listProductos = [
         descripcion: 'GTHTTT',
         valor: 38500,
         ruta: '/imagenes/hombre/pantaloneta/pantalon_3.png',
-        tipo: 'Hombre'
+        tipo: 'Hombre',
+        idDiv: 'divHombre'
     }
     ,
     {
@@ -319,7 +354,8 @@ export const listProductos = [
         descripcion: 'Wrangler',
         valor: 53500,
         ruta: '/imagenes/hombre/pantaloneta/pantalon_4.png',
-        tipo: 'Hombre'
+        tipo: 'Hombre',
+        idDiv: 'divHombre'
     }
     ,
     {
@@ -328,7 +364,8 @@ export const listProductos = [
         descripcion: 'Generic',
         valor: 40500,
         ruta: '/imagenes/hombre/pantaloneta/pantalon_5.png',
-        tipo: 'Hombre'
+        tipo: 'Hombre',
+        idDiv: 'divHombre'
     }
     ,
     {
@@ -337,7 +374,8 @@ export const listProductos = [
         descripcion: 'GTHTTT',
         valor: 120000,
         ruta: '/imagenes/hombre/pantaloneta/pantalon_6.png',
-        tipo: 'Hombre'
+        tipo: 'Hombre',
+        idDiv: 'divHombre'
     }
     ,
     {
@@ -346,7 +384,8 @@ export const listProductos = [
         descripcion: 'Monastery',
         valor: 30500,
         ruta: '/imagenes/mujer/gorras/gorra_1.png',
-        tipo: 'Mujer'
+        tipo: 'Mujer',
+        idDiv: 'divMujer'
     }
     ,
     {
@@ -355,7 +394,8 @@ export const listProductos = [
         descripcion: 'Superdry',
         valor: 40500,
         ruta: '/imagenes/mujer/gorras/gorra_2.png',
-        tipo: 'Mujer'
+        tipo: 'Mujer',
+        idDiv: 'divMujer'
     }
     ,
     {
@@ -364,7 +404,8 @@ export const listProductos = [
         descripcion: 'Marithe Francois Girbaud',
         valor: 40500,
         ruta: '/imagenes/mujer/gorras/gorra_3.png',
-        tipo: 'Mujer'
+        tipo: 'Mujer',
+        idDiv: 'divMujer'
     }
     ,
     {
@@ -373,7 +414,8 @@ export const listProductos = [
         descripcion: 'Marithe Francois Girbaud',
         valor: 53500,
         ruta: '/imagenes/mujer/gorras/gorra_4.png',
-        tipo: 'Mujer'
+        tipo: 'Mujer',
+        idDiv: 'divMujer'
     }
     ,
     {
@@ -382,7 +424,8 @@ export const listProductos = [
         descripcion: 'Superdry',
         valor: 40500,
         ruta: '/imagenes/mujer/gorras/gorra_5.png',
-        tipo: 'Mujer'
+        tipo: 'Mujer',
+        idDiv: 'divMujer'
     }
     ,
     {
@@ -391,7 +434,8 @@ export const listProductos = [
         descripcion: 'Superdry',
         valor: 50000,
         ruta: '/imagenes/mujer/gorras/gorra_6.png',
-        tipo: 'Mujer'
+        tipo: 'Mujer',
+        idDiv: 'divMujer'
     }
     ,
     {
@@ -400,7 +444,8 @@ export const listProductos = [
         descripcion: 'Marithe Francois Girbaud',
         valor: 34000,
         ruta: '/imagenes/mujer/gorras/gorra_7.png',
-        tipo: 'Mujer'
+        tipo: 'Mujer',
+        idDiv: 'divMujer'
     }
     ,
     {
@@ -409,7 +454,8 @@ export const listProductos = [
         descripcion: 'Superdry',
         valor: 38000,
         ruta: '/imagenes/mujer/gorras/gorra_8.png',
-        tipo: 'Mujer'
+        tipo: 'Mujer',
+        idDiv: 'divMujer'
     }
     ,
     {
@@ -418,7 +464,8 @@ export const listProductos = [
         descripcion: 'Superdry',
         valor: 40000,
         ruta: '/imagenes/mujer/pantalon/pantalon_1.png',
-        tipo: 'Mujer'
+        tipo: 'Mujer',
+        idDiv: 'divMujer'
     }
     ,
     {
@@ -427,7 +474,8 @@ export const listProductos = [
         descripcion: 'Superdry',
         valor: 40000,
         ruta: '/imagenes/mujer/pantalon/pantalon_2.png',
-        tipo: 'Mujer'
+        tipo: 'Mujer',
+        idDiv: 'divMujer'
     }
     ,
     {
@@ -436,7 +484,8 @@ export const listProductos = [
         descripcion: 'Superdry',
         valor: 40000,
         ruta: '/imagenes/mujer/pantalon/pantalon_3.png',
-        tipo: 'Mujer'
+        tipo: 'Mujer',
+        idDiv: 'divMujer'
     }
     ,
     {
@@ -445,7 +494,8 @@ export const listProductos = [
         descripcion: 'Superdry',
         valor: 40000,
         ruta: '/imagenes/mujer/pantalon/pantalon_4.png',
-        tipo: 'Mujer'
+        tipo: 'Mujer',
+        idDiv: 'divMujer'
     }
     ,
     {
@@ -454,7 +504,8 @@ export const listProductos = [
         descripcion: 'Marithe Francois Girbaud',
         valor: 30000,
         ruta: '/imagenes/mujer/pantalon/pantalon_5.png',
-        tipo: 'Mujer'
+        tipo: 'Mujer',
+        idDiv: 'divMujer'
     }
     ,
     {
@@ -463,7 +514,8 @@ export const listProductos = [
         descripcion: 'Marithe Francois Girbaud',
         valor: 32000,
         ruta: '/imagenes/mujer/pantalon/pantalon_6.png',
-        tipo: 'Mujer'
+        tipo: 'Mujer',
+        idDiv: 'divMujer'
     }
     ,
     {
@@ -472,7 +524,8 @@ export const listProductos = [
         descripcion: 'Marithe Francois Girbaud',
         valor: 45000,
         ruta: '/imagenes/mujer/pantalon/pantalon_8.png',
-        tipo: 'Mujer'
+        tipo: 'Mujer',
+        idDiv: 'divMujer'
     }
     ,
     {
@@ -481,7 +534,8 @@ export const listProductos = [
         descripcion: 'Superdry',
         valor: 50000,
         ruta: '/imagenes/mujer/pantalon/pantalon_9.png',
-        tipo: 'Mujer'
+        tipo: 'Mujer',
+        idDiv: 'divMujer'
     }
     ,
     {
@@ -490,7 +544,8 @@ export const listProductos = [
         descripcion: 'Superdry',
         valor: 60000,
         ruta: '/imagenes/mujer/pantalon/pantalon_10.png',
-        tipo: 'Mujer'
+        tipo: 'Mujer',
+        idDiv: 'divMujer'
     }
     ,
     {
@@ -499,7 +554,8 @@ export const listProductos = [
         descripcion: 'Lacoste',
         valor: 540000,
         ruta: '/imagenes/zapatos/zapato_1.png',
-        tipo: 'Zapato'
+        tipo: 'Zapato',
+        idDiv: 'divUnisex'
     }
     ,
     {
@@ -508,7 +564,8 @@ export const listProductos = [
         descripcion: 'Diesel',
         valor: 620000,
         ruta: '/imagenes/zapatos/zapato_2.png',
-        tipo: 'Zapato'
+        tipo: 'Zapato',
+        idDiv: 'divUnisex'
     }
     ,
     {
@@ -517,7 +574,8 @@ export const listProductos = [
         descripcion: 'Vans',
         valor: 220000,
         ruta: '/imagenes/zapatos/zapato_3.png',
-        tipo: 'Zapato'
+        tipo: 'Zapato',
+        idDiv: 'divUnisex'
     }
     ,
     {
@@ -526,7 +584,8 @@ export const listProductos = [
         descripcion: 'Lacoste',
         valor: 320000,
         ruta: '/imagenes/zapatos/zapato_4.png',
-        tipo: 'Zapato'
+        tipo: 'Zapato',
+        idDiv: 'divUnisex'
     }
     ,
     {
@@ -535,7 +594,8 @@ export const listProductos = [
         descripcion: 'Lacoste',
         valor: 250000,
         ruta: '/imagenes/zapatos/zapato_5.png',
-        tipo: 'Zapato'
+        tipo: 'Zapato',
+        idDiv: 'divUnisex'
     }
     ,
     {
@@ -544,7 +604,8 @@ export const listProductos = [
         descripcion: 'Lacoste',
         valor: 280000,
         ruta: '/imagenes/zapatos/zapato_6.png',
-        tipo: 'Zapato'
+        tipo: 'Zapato',
+        idDiv: 'divUnisex'
     }
     ,
     {
@@ -553,7 +614,8 @@ export const listProductos = [
         descripcion: 'Vans',
         valor: 350000,
         ruta: '/imagenes/zapatos/zapato_7.png',
-        tipo: 'Zapato'
+        tipo: 'Zapato',
+        idDiv: 'divUnisex'
     }
     ,
     {
@@ -562,7 +624,8 @@ export const listProductos = [
         descripcion: 'Lacoste',
         valor: 190000,
         ruta: '/imagenes/zapatos/zapato_8.png',
-        tipo: 'Zapato'
+        tipo: 'Zapato',
+        idDiv: 'divUnisex'
     }
     ,
     {
@@ -571,7 +634,8 @@ export const listProductos = [
         descripcion: 'Vans',
         valor: 145000,
         ruta: '/imagenes/zapatos/zapato_9.png',
-        tipo: 'Zapato'
+        tipo: 'Zapato',
+        idDiv: 'divUnisex'
     }
     ,
     {
@@ -580,7 +644,8 @@ export const listProductos = [
         descripcion: 'Lacoste',
         valor: 90000,
         ruta: '/imagenes/zapatos/zapato_10.png',
-        tipo: 'Zapato'
+        tipo: 'Zapato',
+        idDiv: 'divUnisex'
     }
     ,
     {
@@ -589,7 +654,8 @@ export const listProductos = [
         descripcion: 'Vans',
         valor: 255000,
         ruta: '/imagenes/zapatos/zapato_11.png',
-        tipo: 'Zapato'
+        tipo: 'Zapato',
+        idDiv: 'divUnisex'
     }
     ,
     {
@@ -598,6 +664,7 @@ export const listProductos = [
         descripcion: 'Lacoste',
         valor: 210000,
         ruta: '/imagenes/zapatos/zapato_12.png',
-        tipo: 'Zapato'
+        tipo: 'Zapato',
+        idDiv: 'divUnisex'
     }
 ]

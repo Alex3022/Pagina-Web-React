@@ -22,3 +22,42 @@
   right: 10px;
   cursor: pointer;
 }
+
+.banner {
+  margin-bottom: 5px;
+  display: flex;
+  flex-direction: column;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #fff;
+}
+
+.header-content {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  min-height: 50px;
+}
+
+.color-banner {
+  position: relative;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center !important;
+  margin: 0 auto;
+  background-color: #00607ee3;
+}
+
+.slider {
+  display: flex;
+  overflow-x: scroll;
+  -webkit-overflow-scrolling: touch;
+  white-space: unset;
+}

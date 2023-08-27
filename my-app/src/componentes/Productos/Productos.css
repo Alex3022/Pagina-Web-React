@@ -1,23 +1,19 @@
 .color-container {
     position: relative;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center !important;
-    margin: 0 auto;
-    background-color: #00607ee3;
 }
 
-.secundario {
+/*.secundario {
     background-color: #075155e3;
     display: flex;
     overflow-x: scroll;
     -webkit-overflow-scrolling: touch;
     white-space: unset;
     flex-wrap: wrap;
-}
+}*/
 
 .tercero {
     display: inline flow-root list-item;
+    margin-left: 5% !important;
 }
 
 img {
@@ -27,6 +23,21 @@ img {
 h3 {
     color: white
 }
+
+h4 {
+    color: white
+}
+
+p {
+    color: white
+}
+
+.divIniciProducto {
+    width: 100% !important;
+    background-color: #00607ee3 !important;
+}
+
+
 
 .btnCarro {
     /*background:url(/carro.png) no-repeat;*/
