@@ -27,14 +27,14 @@ export function List() {
 
 
 export function ListaBanner() {
-    function handleClick() {
+    function sesionProducto() {
        
       }
 
     return (
         lstBanner.map(producto =>
             <div key={producto.id}>
-                <a href={producto.idDiv} onClick={handleClick}>
+                <a href={producto.idDiv} onClick={sesionProducto}>
                     <img id="img" src={getImageProducto(producto)} alt={producto.titulo}/>
                     <h3>{producto.titulo}</h3>
                 </a>
