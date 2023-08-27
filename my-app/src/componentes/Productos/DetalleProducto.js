@@ -2,6 +2,7 @@ import { listProductos } from './datos.js';
 import { getImageProducto } from './getImageProducto.js';
 import './Productos.css';
 import { lstBanner } from './datoBanner.js';
+//import carro from './carro.png';
 
 
 
@@ -17,6 +18,8 @@ export function List() {
                     <h4>{producto.nombre}</h4>
                     <p>{producto.descripcion}</p>
                     <h3>{producto.valor}</h3>
+                    <button id="carrito" type="button" 
+                      className="btnCarro" style={{ backgroundImage: `url('${producto.btnCarro}')` }}></button>
                 </div>
             </div>
         )

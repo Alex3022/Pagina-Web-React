@@ -40,7 +40,6 @@ p {
 
 
 .btnCarro {
-    /*background:url(/carro.png) no-repeat;*/
     width: 35px !important;
     height: 35px !important;
     transition: background-color .3s;

@@ -6,7 +6,8 @@ export const listProductos = [
         valor: 40000,
         ruta: '/imagenes/deporte/bagminton_1.png',
         tipo: 'Deporte',
-        idDiv: 'divDeporte'
+        idDiv: 'divDeporte',
+        btnCarro: '/imagenes/carro.png'
     },
     {
         id: 1,
@@ -15,7 +16,8 @@ export const listProductos = [
         valor: 165750,
         ruta: '/imagenes/deporte/pin_pon_1.png',
         tipo: 'Deporte',
-        idDiv: 'divDeporte'
+        idDiv: 'divDeporte',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -25,7 +27,8 @@ export const listProductos = [
         valor: 165750,
         ruta: '/imagenes/deporte/pin_pon_2.png',
         tipo: 'Deporte',
-        idDiv: 'divDeporte'
+        idDiv: 'divDeporte',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -35,7 +38,8 @@ export const listProductos = [
         valor: 90000,
         ruta: '/imagenes/deporte/pin_pon_3.png',
         tipo: 'Deporte',
-        idDiv: 'divDeporte'
+        idDiv: 'divDeporte',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -45,7 +49,8 @@ export const listProductos = [
         valor: 85000,
         ruta: '/imagenes/deporte/tenis_1.png',
         tipo: 'Deporte',
-        idDiv: 'divDeporte'
+        idDiv: 'divDeporte',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -55,7 +60,8 @@ export const listProductos = [
         valor: 130000,
         ruta: '/imagenes/deporte/balon_1.png',
         tipo: 'Deporte',
-        idDiv: 'divDeporte'
+        idDiv: 'divDeporte',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -65,7 +71,8 @@ export const listProductos = [
         valor: 90000,
         ruta: '/imagenes/deporte/balon_2.png',
         tipo: 'Deporte',
-        idDiv: 'divDeporte'
+        idDiv: 'divDeporte',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -75,7 +82,8 @@ export const listProductos = [
         valor: 20000,
         ruta: '/imagenes/deporte/balon_3.png',
         tipo: 'Deporte',
-        idDiv: 'divDeporte'
+        idDiv: 'divDeporte',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -85,7 +93,8 @@ export const listProductos = [
         valor: 30000,
         ruta: '/imagenes/deporte/bate_1.png',
         tipo: 'Deporte',
-        idDiv: 'divDeporte'
+        idDiv: 'divDeporte',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -95,7 +104,8 @@ export const listProductos = [
         valor: 72000,
         ruta: '/imagenes/deporte/boxeo_1.png',
         tipo: 'Deporte',
-        idDiv: 'divDeporte'
+        idDiv: 'divDeporte',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -105,7 +115,8 @@ export const listProductos = [
         valor: 72000,
         ruta: '/imagenes/deporte/boxeo_3.png',
         tipo: 'Deporte',
-        idDiv: 'divDeporte'
+        idDiv: 'divDeporte',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -115,7 +126,8 @@ export const listProductos = [
         valor: 1200000,
         ruta: '/imagenes/deporte/esgrima_1.png',
         tipo: 'Deporte',
-        idDiv: 'divDeporte'
+        idDiv: 'divDeporte',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -125,7 +137,8 @@ export const listProductos = [
         valor: 215000,
         ruta: '/imagenes/deporte/judo_1.png',
         tipo: 'Deporte',
-        idDiv: 'divDeporte'
+        idDiv: 'divDeporte',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -135,7 +148,8 @@ export const listProductos = [
         valor: 95000,
         ruta: '/imagenes/hombre/busos/buso_1.png',
         tipo: 'Hombre',
-        idDiv: 'divHombre'
+        idDiv: 'divHombre',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -145,7 +159,8 @@ export const listProductos = [
         valor: 105000,
         ruta: '/imagenes/hombre/busos/buso_2.png',
         tipo: 'Hombre',
-        idDiv: 'divHombre'
+        idDiv: 'divHombre',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -155,7 +170,8 @@ export const listProductos = [
         valor: 75000,
         ruta: '/imagenes/hombre/busos/buso_3.png',
         tipo: 'Hombre',
-        idDiv: 'divHombre'
+        idDiv: 'divHombre',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -165,7 +181,8 @@ export const listProductos = [
         valor: 87500,
         ruta: '/imagenes/hombre/busos/buso_4.png',
         tipo: 'Hombre',
-        idDiv: 'divHombre'
+        idDiv: 'divHombre',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -175,7 +192,8 @@ export const listProductos = [
         valor: 60500,
         ruta: '/imagenes/hombre/busos/buso_5.png',
         tipo: 'Hombre',
-        idDiv: 'divHombre'
+        idDiv: 'divHombre',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -185,7 +203,8 @@ export const listProductos = [
         valor: 155000,
         ruta: '/imagenes/hombre/chaquetas/chaqueta_1.png',
         tipo: 'Hombre',
-        idDiv: 'divHombre'
+        idDiv: 'divHombre',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -195,7 +214,8 @@ export const listProductos = [
         valor: 235000,
         ruta: '/imagenes/hombre/chaquetas/chaqueta_2.png',
         tipo: 'Hombre',
-        idDiv: 'divHombre'
+        idDiv: 'divHombre',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -205,7 +225,8 @@ export const listProductos = [
         valor: 70000,
         ruta: '/imagenes/hombre/chaquetas/chaqueta_3.png',
         tipo: 'Hombre',
-        idDiv: 'divHombre'
+        idDiv: 'divHombre',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -215,7 +236,8 @@ export const listProductos = [
         valor: 87500,
         ruta: '/imagenes/hombre/chaquetas/chaqueta_4.png',
         tipo: 'Hombre',
-        idDiv: 'divHombre'
+        idDiv: 'divHombre',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -225,7 +247,8 @@ export const listProductos = [
         valor: 60500,
         ruta: '/imagenes/hombre/chaquetas/chaqueta_5.png',
         tipo: 'Hombre',
-        idDiv: 'divHombre'
+        idDiv: 'divHombre',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -235,7 +258,8 @@ export const listProductos = [
         valor: 155000,
         ruta: '/imagenes/hombre/chaquetas/chaqueta_6.png',
         tipo: 'Hombre',
-        idDiv: 'divHombre'
+        idDiv: 'divHombre',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -245,7 +269,8 @@ export const listProductos = [
         valor: 30500,
         ruta: '/imagenes/hombre/gorras/gorra_1.png',
         tipo: 'Hombre',
-        idDiv: 'divHombre'
+        idDiv: 'divHombre',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -255,7 +280,8 @@ export const listProductos = [
         valor: 40500,
         ruta: '/imagenes/hombre/gorras/gorra_2.png',
         tipo: 'Hombre',
-        idDiv: 'divHombre'
+        idDiv: 'divHombre',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -265,7 +291,8 @@ export const listProductos = [
         valor: 40500,
         ruta: '/imagenes/hombre/gorras/gorra_3.png',
         tipo: 'Hombre',
-        idDiv: 'divHombre'
+        idDiv: 'divHombre',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -275,7 +302,8 @@ export const listProductos = [
         valor: 40500,
         ruta: '/imagenes/hombre/gorras/gorra_4.png',
         tipo: 'Hombre',
-        idDiv: 'divHombre'
+        idDiv: 'divHombre',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -285,7 +313,8 @@ export const listProductos = [
         valor: 53500,
         ruta: '/imagenes/hombre/gorras/gorra_5.png',
         tipo: 'Hombre',
-        idDiv: 'divHombre'
+        idDiv: 'divHombre',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -295,7 +324,8 @@ export const listProductos = [
         valor: 50000,
         ruta: '/imagenes/hombre/gorras/gorra_6.png',
         tipo: 'Hombre',
-        idDiv: 'divHombre'
+        idDiv: 'divHombre',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -305,7 +335,8 @@ export const listProductos = [
         valor: 34000,
         ruta: '/imagenes/hombre/gorras/gorra_7.png',
         tipo: 'Hombre',
-        idDiv: 'divHombre'
+        idDiv: 'divHombre',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -315,7 +346,8 @@ export const listProductos = [
         valor: 38000,
         ruta: '/imagenes/hombre/gorras/gorra_8.png',
         tipo: 'Hombre',
-        idDiv: 'divHombre'
+        idDiv: 'divHombre',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -325,7 +357,8 @@ export const listProductos = [
         valor: 50500,
         ruta: '/imagenes/hombre/pantaloneta/pantalon_1.png',
         tipo: 'Hombre',
-        idDiv: 'divHombre'
+        idDiv: 'divHombre',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -335,7 +368,8 @@ export const listProductos = [
         valor: 40500,
         ruta: '/imagenes/hombre/pantaloneta/pantalon_2.png',
         tipo: 'Hombre',
-        idDiv: 'divHombre'
+        idDiv: 'divHombre',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -345,7 +379,8 @@ export const listProductos = [
         valor: 38500,
         ruta: '/imagenes/hombre/pantaloneta/pantalon_3.png',
         tipo: 'Hombre',
-        idDiv: 'divHombre'
+        idDiv: 'divHombre',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -355,7 +390,8 @@ export const listProductos = [
         valor: 53500,
         ruta: '/imagenes/hombre/pantaloneta/pantalon_4.png',
         tipo: 'Hombre',
-        idDiv: 'divHombre'
+        idDiv: 'divHombre',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -365,7 +401,8 @@ export const listProductos = [
         valor: 40500,
         ruta: '/imagenes/hombre/pantaloneta/pantalon_5.png',
         tipo: 'Hombre',
-        idDiv: 'divHombre'
+        idDiv: 'divHombre',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -375,7 +412,8 @@ export const listProductos = [
         valor: 120000,
         ruta: '/imagenes/hombre/pantaloneta/pantalon_6.png',
         tipo: 'Hombre',
-        idDiv: 'divHombre'
+        idDiv: 'divHombre',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -385,7 +423,8 @@ export const listProductos = [
         valor: 30500,
         ruta: '/imagenes/mujer/gorras/gorra_1.png',
         tipo: 'Mujer',
-        idDiv: 'divMujer'
+        idDiv: 'divMujer',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -395,7 +434,8 @@ export const listProductos = [
         valor: 40500,
         ruta: '/imagenes/mujer/gorras/gorra_2.png',
         tipo: 'Mujer',
-        idDiv: 'divMujer'
+        idDiv: 'divMujer',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -405,7 +445,8 @@ export const listProductos = [
         valor: 40500,
         ruta: '/imagenes/mujer/gorras/gorra_3.png',
         tipo: 'Mujer',
-        idDiv: 'divMujer'
+        idDiv: 'divMujer',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -415,7 +456,8 @@ export const listProductos = [
         valor: 53500,
         ruta: '/imagenes/mujer/gorras/gorra_4.png',
         tipo: 'Mujer',
-        idDiv: 'divMujer'
+        idDiv: 'divMujer',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -425,7 +467,8 @@ export const listProductos = [
         valor: 40500,
         ruta: '/imagenes/mujer/gorras/gorra_5.png',
         tipo: 'Mujer',
-        idDiv: 'divMujer'
+        idDiv: 'divMujer',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -435,7 +478,8 @@ export const listProductos = [
         valor: 50000,
         ruta: '/imagenes/mujer/gorras/gorra_6.png',
         tipo: 'Mujer',
-        idDiv: 'divMujer'
+        idDiv: 'divMujer',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -445,7 +489,8 @@ export const listProductos = [
         valor: 34000,
         ruta: '/imagenes/mujer/gorras/gorra_7.png',
         tipo: 'Mujer',
-        idDiv: 'divMujer'
+        idDiv: 'divMujer',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -455,7 +500,8 @@ export const listProductos = [
         valor: 38000,
         ruta: '/imagenes/mujer/gorras/gorra_8.png',
         tipo: 'Mujer',
-        idDiv: 'divMujer'
+        idDiv: 'divMujer',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -465,7 +511,8 @@ export const listProductos = [
         valor: 40000,
         ruta: '/imagenes/mujer/pantalon/pantalon_1.png',
         tipo: 'Mujer',
-        idDiv: 'divMujer'
+        idDiv: 'divMujer',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -475,7 +522,8 @@ export const listProductos = [
         valor: 40000,
         ruta: '/imagenes/mujer/pantalon/pantalon_2.png',
         tipo: 'Mujer',
-        idDiv: 'divMujer'
+        idDiv: 'divMujer',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -485,7 +533,8 @@ export const listProductos = [
         valor: 40000,
         ruta: '/imagenes/mujer/pantalon/pantalon_3.png',
         tipo: 'Mujer',
-        idDiv: 'divMujer'
+        idDiv: 'divMujer',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -495,7 +544,8 @@ export const listProductos = [
         valor: 40000,
         ruta: '/imagenes/mujer/pantalon/pantalon_4.png',
         tipo: 'Mujer',
-        idDiv: 'divMujer'
+        idDiv: 'divMujer',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -505,7 +555,8 @@ export const listProductos = [
         valor: 30000,
         ruta: '/imagenes/mujer/pantalon/pantalon_5.png',
         tipo: 'Mujer',
-        idDiv: 'divMujer'
+        idDiv: 'divMujer',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -515,7 +566,8 @@ export const listProductos = [
         valor: 32000,
         ruta: '/imagenes/mujer/pantalon/pantalon_6.png',
         tipo: 'Mujer',
-        idDiv: 'divMujer'
+        idDiv: 'divMujer',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -525,7 +577,8 @@ export const listProductos = [
         valor: 45000,
         ruta: '/imagenes/mujer/pantalon/pantalon_8.png',
         tipo: 'Mujer',
-        idDiv: 'divMujer'
+        idDiv: 'divMujer',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -535,7 +588,8 @@ export const listProductos = [
         valor: 50000,
         ruta: '/imagenes/mujer/pantalon/pantalon_9.png',
         tipo: 'Mujer',
-        idDiv: 'divMujer'
+        idDiv: 'divMujer',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -545,7 +599,8 @@ export const listProductos = [
         valor: 60000,
         ruta: '/imagenes/mujer/pantalon/pantalon_10.png',
         tipo: 'Mujer',
-        idDiv: 'divMujer'
+        idDiv: 'divMujer',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -555,7 +610,8 @@ export const listProductos = [
         valor: 540000,
         ruta: '/imagenes/zapatos/zapato_1.png',
         tipo: 'Zapato',
-        idDiv: 'divUnisex'
+        idDiv: 'divUnisex',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -565,7 +621,8 @@ export const listProductos = [
         valor: 620000,
         ruta: '/imagenes/zapatos/zapato_2.png',
         tipo: 'Zapato',
-        idDiv: 'divUnisex'
+        idDiv: 'divUnisex',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -575,7 +632,8 @@ export const listProductos = [
         valor: 220000,
         ruta: '/imagenes/zapatos/zapato_3.png',
         tipo: 'Zapato',
-        idDiv: 'divUnisex'
+        idDiv: 'divUnisex',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -585,7 +643,8 @@ export const listProductos = [
         valor: 320000,
         ruta: '/imagenes/zapatos/zapato_4.png',
         tipo: 'Zapato',
-        idDiv: 'divUnisex'
+        idDiv: 'divUnisex',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -595,7 +654,8 @@ export const listProductos = [
         valor: 250000,
         ruta: '/imagenes/zapatos/zapato_5.png',
         tipo: 'Zapato',
-        idDiv: 'divUnisex'
+        idDiv: 'divUnisex',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -605,7 +665,8 @@ export const listProductos = [
         valor: 280000,
         ruta: '/imagenes/zapatos/zapato_6.png',
         tipo: 'Zapato',
-        idDiv: 'divUnisex'
+        idDiv: 'divUnisex',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -615,7 +676,8 @@ export const listProductos = [
         valor: 350000,
         ruta: '/imagenes/zapatos/zapato_7.png',
         tipo: 'Zapato',
-        idDiv: 'divUnisex'
+        idDiv: 'divUnisex',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -625,7 +687,8 @@ export const listProductos = [
         valor: 190000,
         ruta: '/imagenes/zapatos/zapato_8.png',
         tipo: 'Zapato',
-        idDiv: 'divUnisex'
+        idDiv: 'divUnisex',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -635,7 +698,8 @@ export const listProductos = [
         valor: 145000,
         ruta: '/imagenes/zapatos/zapato_9.png',
         tipo: 'Zapato',
-        idDiv: 'divUnisex'
+        idDiv: 'divUnisex',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -645,7 +709,8 @@ export const listProductos = [
         valor: 90000,
         ruta: '/imagenes/zapatos/zapato_10.png',
         tipo: 'Zapato',
-        idDiv: 'divUnisex'
+        idDiv: 'divUnisex',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -655,7 +720,8 @@ export const listProductos = [
         valor: 255000,
         ruta: '/imagenes/zapatos/zapato_11.png',
         tipo: 'Zapato',
-        idDiv: 'divUnisex'
+        idDiv: 'divUnisex',
+        btnCarro: '/imagenes/carro.png'
     }
     ,
     {
@@ -665,6 +731,7 @@ export const listProductos = [
         valor: 210000,
         ruta: '/imagenes/zapatos/zapato_12.png',
         tipo: 'Zapato',
-        idDiv: 'divUnisex'
+        idDiv: 'divUnisex',
+        btnCarro: '/imagenes/carro.png'
     }
 ]
