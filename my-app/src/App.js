@@ -1,4 +1,4 @@
-
+//Mariana Acevedo Gonzalez, Andres Felipe Restrepo, Dhayanna Sanchez, Cristian Santiago Gomez
 //import React, { useState } from 'react';
 import ModalLogin from './componentes/Modal/ModalLogin';
 import './App.css';

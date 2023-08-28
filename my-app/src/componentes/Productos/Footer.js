@@ -1,11 +1,30 @@
-import './Productos.css';
+import FacebookLogin from 'react-facebook-login';
+import './Productos.css'
 
-//Alterna el fondo de la vista entre modo claro y oscuro, tambien alterna la imagen del boton
-export function Footer() {
+export function Footer (){
+  const responseFacebook = (response) => {
+    console.log(response);
+  }
     return (
-        <footer id="footer">
-    <p className='footer'>&copy; 2023 Mi Empresa. Todos los derechos reservados.</p>
-  </footer>
-
+      
+      <footer className="Footer">
+      <p>Recibe promociones por medio del correo</p>
+      <div>
+      <form>
+        <input placeholder='correo electronico' data-testid="correo electronico" required></input>
+        <input data-testid="boton" type='submit'></input>
+      </form>
+        </div>
+        
+        <div className="Apiface">
+        <br /><br />
+           <FacebookLogin
+    appId="1263866944182333"
+    autoLoad={false}
+    fields="name,email,picture"
+    callback={responseFacebook} />
+      </div>     
+    </footer>
+    
     );
 }

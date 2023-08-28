@@ -62,7 +62,11 @@ p {
     border-radius: 5px;
 }
 
-.footer {
-    color: #ff504b !important;
-    font-weight: bold;
-}
+.Footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding:1rem;
+    position: absolute;
+    width: 100%;
+  }
