@@ -1,22 +1,16 @@
-import Footer from './Footer'; 
 import { render, screen } from '@testing-library/react';
+import {Footer}  from './componentes/Productos/Footer';
 
-describe('Footer', () => {
-    it('Componente existe', () => {
-        <Footer />
-    })
-   })
-
-   test('Correo requerido', () => {
-    render(<Footer></Footer>);
-    const correoRe = screen.getByTestId('correo electronico');
-    expect(correoRe).toBeRequired();
+   test('Que el correo sea requerido', () => {
+    render(<Footer />);
+    const correo = screen.getByTestId('correo');
+    expect(correo).toBeRequired();
 }
 )
 
-test('boton', () => {
-    render(<Footer></Footer>);
-    const correoRe = screen.getByTestId('boton');
-    expect(correoRe).toBeRequired();
-}
+ test('boton de enviar', () => {
+    render(<Footer />);
+    const boton = screen.getByTestId('boton');
+    fireEvent.click(boton);
+ }
 )

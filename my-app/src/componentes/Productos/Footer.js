@@ -11,8 +11,8 @@ export function Footer (){
       <p>Recibe promociones por medio del correo</p>
       <div>
       <form>
-        <input placeholder='correo electronico' data-testid="correo electronico" required></input>
-        <input data-testid="boton" type='submit'></input>
+        <input placeholder='correo' data-testid="correo" required></input>
+        <input data-testid="boton" type='submit' ></input>
       </form>
         </div>
         
