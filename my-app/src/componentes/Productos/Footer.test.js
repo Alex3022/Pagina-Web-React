@@ -11,6 +11,6 @@ import {Footer}  from './componentes/Productos/Footer';
  test('boton de enviar', () => {
     render(<Footer />);
     const boton = screen.getByTestId('boton');
-    fireEvent.click(boton);
+    expect(boton).toBeDisabled();
  }
 )

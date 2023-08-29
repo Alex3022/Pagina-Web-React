@@ -12,7 +12,7 @@ export function Footer (){
       <div>
       <form>
         <input placeholder='correo' data-testid="correo" required></input>
-        <input data-testid="boton" type='submit' ></input>
+        <input data-testid="boton" type='submit' disabled></input>
       </form>
         </div>
         
